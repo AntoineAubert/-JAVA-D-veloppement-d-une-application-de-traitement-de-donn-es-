@@ -1,0 +1,6 @@
+01;Un;Deux
+02;Trois;Quatre
+03;Cinq;Six
+04;Sept;Huit
+05;Neuf;Dix
+06;Onze;Douze
